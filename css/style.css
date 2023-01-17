@@ -256,6 +256,11 @@ a[href^="tel"]{
     color: #999;
 }
 
+.baby{
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, .15);
+}
+
 
 /* ======= Scrollbar style ======= */
 ::-webkit-scrollbar {
@@ -748,16 +753,16 @@ a[href^="tel"]{
 .annie-hero .flexslider .slider-text > .slider-text-inner .frame-inner .frame-2:before {
     left: auto;
     right: 0;
-    border-top: 5px solid #fff;
-    border-right: 5px solid #fff;
+    border-top: 5px solid #f2f2f2;
+    border-right: 5px solid #f2f2f2;
 }
 .annie-hero .flexslider .slider-text > .slider-text-inner .frame-inner .frame-2:after {
     top: auto;
     bottom: 0;
     left: auto;
     right: 0;
-    border-bottom: 5px solid #fff;
-    border-right: 5px solid #fff;
+    border-bottom: 5px solid #f2f2f2;
+    border-right: 5px solid #f2f2f2;
 }
 @media screen and (max-width: 768px) {
     .annie-hero .flexslider .slider-text > .slider-text-inner .frame-inner {
@@ -770,7 +775,7 @@ a[href^="tel"]{
 .annie-hero .flexslider .slider-text > .slider-text-inner h1,
 .annie-hero .flexslider .slider-text > .slider-text-inner h1 {
     font-size: 40px;
-    color: #fff;
+    color: #f2f2f2;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 700;
     margin: 0;
@@ -780,7 +785,7 @@ a[href^="tel"]{
 .annie-hero .flexslider .slider-text > .slider-text-inner h2 {
     font-size: 16px;
     line-height: 1.3em;
-    color: #fff;
+    color: #f2f2f2;
     font-family: 'Josefin Sans', sans-serif;
     text-transform: uppercase;
     font-weight: 500;
