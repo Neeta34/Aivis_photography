@@ -27,9 +27,7 @@
 
 /* ======= Default styles ======= */
 
-.slides .babe{
-    background-image:url(./images/20230115_181618.jpg) !important;
-}
+
 
 
 
@@ -256,10 +254,7 @@ a[href^="tel"]{
     color: #999;
 }
 
-.baby{
-    background-blend-mode: overlay;
-    background-color: rgba(0, 0, 0, .15);
-}
+
 
 
 /* ======= Scrollbar style ======= */
